@@ -1,0 +1,2 @@
+This is a text file from Firoze.
+This is a text file from Firoze with a new line.
