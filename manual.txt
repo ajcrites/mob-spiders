@@ -1,1 +1,2 @@
 Manual text.
+This line is added by Kushagra.
